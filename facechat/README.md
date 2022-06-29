@@ -1,3 +1,3 @@
-# Zoom Clone
+# Facechat
 
-Zoom clone with Nodejs, WebRTC
+Facechat with Nodejs, WebRTC
